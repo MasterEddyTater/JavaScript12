@@ -1,0 +1,19 @@
+p,
+h1,
+h2 {
+  color: rgb(31, 161, 5);
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  background-color: rgb(17, 17, 17);
+}
+main img {
+    margin-right: 1em;
+}
+p {
+    width: 50%; 
+}
+#secret {
+    position: fixed;
+    bottom: 0;
+}
